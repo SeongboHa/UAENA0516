@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?color=auto)
+
 # EDUCATION
 
 
@@ -15,8 +17,7 @@ GPA : 4.37 / 4.5
 
 # RESEARCH INTEREST
 
-
-Robot Perception, 2D/3D Object Detection, 3D Reconstruction, SLAM
+Robot Perception, 3D Reconstruction, SLAM, 2D/3D Object Detection
 
 <br/>
 
