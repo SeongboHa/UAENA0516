@@ -66,14 +66,3 @@ Robot Perception, 3D Reconstruction, SLAM, 2D/3D Object Detection
 [카메라 영상에서의 주차 가능 공간 판별 및 RRT 알고리즘을 통한 경로 작성](https://www.notion.so/RRT-5ca070b5331e49f281d8f220c77325cb)
 
 [Tello 드론을 활용한 사람 추적/ 지역 감시 시스템](https://www.notion.so/Tello-bc0e4b826b2f44f894f21971de108b3e)
-
-<br/>
-
-# SKILLS
-
-
-Languages : Python
-
-Libraries : ROS, Pytorch, Opencv
-
-Others : Fusion 360, Premiere Pro, After Effects, Unity
